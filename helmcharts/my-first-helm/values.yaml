@@ -1,0 +1,7 @@
+replicaCount: 5
+
+image:
+  repository: nginx
+  tag: latest
+
+deploymentName: my-helm-dep
